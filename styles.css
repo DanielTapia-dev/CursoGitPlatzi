@@ -3,3 +3,9 @@ body{
     font-style: italic;
     font-family: Arial;
 }
+
+
+.cabecera{
+    color: blueviolet;
+    font-style: oblique;
+}
