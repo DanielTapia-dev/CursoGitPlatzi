@@ -2,3 +2,8 @@ body{
     color: pink;
     font-style: italic;
 }
+
+.cabecera{
+    color: blueviolet;
+    font-style: oblique;
+}
